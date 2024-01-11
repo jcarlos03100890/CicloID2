@@ -5,3 +5,13 @@ Una vez que tenemos en archivo JSON con los tweets a analizar, el primer paso es
 Asi como una notebook para ejemplificar como se realiza el proceso, ya que utilizre una instancia de MySQL en mi red interna.
 
 0. Test data base connection
+1. Create database
+2. Read CSV Files
+3. Get Files Names
+4. Insert tables into MySQL
+
+Estos scripts son ejectuados por un **main.py**.
+
+Cabe mencionar que este ejercicio se hizo para la informacion de una tienda de bicicletas los archivos se encuentran en Bike Store Data.
+
+
